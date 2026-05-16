@@ -1,1 +1,16 @@
 ipykernel
+dotenv
+langchain
+openai
+pydantic
+langchain_core
+langchain_openai
+langchain_core
+langchain_groq
+langgraph
+pinecone-client
+chromadb
+youtube-search-python
+youtube-search
+langchain_google_genai
+langchain_ollama
